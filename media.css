@@ -1,0 +1,148 @@
+@media screen and (min-width:2560px)and (max-width:2560px) {
+    .tag{
+        padding: 110px 0px 110px 0px;
+    }
+    .item{
+        font-size: 30px;
+        height: 23vh;
+    }
+}
+@media screen and (max-width:1440px){
+    .tag{
+        padding: 70px 15px 110px 15px;
+    }
+    .main_carosual{
+        width: 70vw;
+    }
+    .item p{
+        font-size: 15px;
+    }
+    .item img{
+        height: 150px !important;
+        width: 150px !important;
+    }
+}
+@media screen and (max-width:1024px){
+    .item img{
+        height: 100px !important;
+        width: 100px !important;
+    }
+    .tag{
+        font-size: 20px;
+    }
+    .tag a {
+        padding: 2px 5px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width:768px){
+    .tag{
+        font-size: 20px;
+    }
+    .tag a{
+        font-size: 10px;
+        padding: 2px 5px;
+
+    }
+    #search {
+        height: 20px;
+        width: 390px;
+        outline: none;
+        border-style: none;
+        font-size: 10px;
+        padding: 1px 10px;
+      }
+      
+      #search_logo {
+        /* height: 26px; */
+        color: #2874f0;
+        background-color: white;
+        padding: 1px;
+        padding-bottom: 5px;
+      }
+    #logo{
+        height: 40px;
+        width: 65px;
+    }
+    .main_corosual{
+        width: 83vw;
+    }
+    .item img{
+        height: 100px !important;
+        width: 100px !important;
+    }
+    .item{
+        width: 15vw;
+    }
+    #login{
+      padding: 2px 20px;
+
+    }
+}
+@media screen and (max-width:425px){
+    .main_corosual{
+        width: 72.3vw;
+    }
+    #logo{
+        height: 20px;
+        width: 50px;
+    }
+    #search{
+        width: 200px;
+    }
+    #login{
+        font-size: 10px;
+        padding: 2px 2px;
+    }
+    .cat_container div img{
+        height: 70px;
+        width: 70px;
+    }
+    .tag{
+        padding: 70px 35px 40px 25px;
+        font-size: 15px;
+    }
+    .item{
+        width: 30vw;
+        height: 26vh;
+    }
+    .item img{
+        height: 50px !important;
+        width: 50px !important;
+    }
+    .item p{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:375px){
+    .main_corosual{
+        width: 71vw;
+    }
+    #search{
+        width: 150px;
+    }
+    #login{
+        padding: 0px 0px !important;
+    }
+}
+@media screen and (max-width:320px){
+    .tag{
+        font-size: 13px;
+    }
+    .main_corosual{
+        width: 67vw;
+    }
+    #search{
+        width: 100px;
+    }
+    .cat_container div img{
+        height: 50px;
+        width: 50px;
+    }
+    #login{
+        padding: 0px 0px !important;
+    }
+    .item{
+        width: 35vw;
+    }
+}
